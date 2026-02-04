@@ -5,6 +5,6 @@ Learning Java in school. Focusing on object oriented programing.
 - int waitTime
 - double rating
 - double avgPrice
-- dict menuItems
+- Map menuItems
 - double distance
 - String hoursOpen
